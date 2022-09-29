@@ -1,0 +1,39 @@
+#screen{
+    height: 50px;
+    width: 365px;
+    border-radius: 10px;
+    text-align: end;
+    background-color: #97efff;
+  }
+
+#valeur{margin-right: 10px}
+
+#conteneur {height: 375px;width: 390px;border-radius: 15px;}
+
+button {
+  height: 70px;
+  width: 70px;
+  border-radius: 10px;
+  background-color: #3b3a3a;
+}
+
+.bbotom {height: 70px;width: 140px;border-radius: 10px;}
+
+#conts{height: 280px;width: 330px;border-radius: 15px;}
+
+.b1{margin:2px;}
+
+.ch{color:#a19d9d;scale: 0.9;transition: 0.12s;}
+.ch:hover{background-color: #646464;color: white;scale: 1; transition: 0.12s;}
+
+.op{color: #97efff;scale: 0.9;transition: 0.12s;}
+.op:hover{background-color: #646464;scale: 1;color: rgb(73, 255, 134);}
+
+#prev{scale: 0.9;transition: 0.12s;}
+#prev:hover{background-color: #646464;scale: 1;}
+
+#C{color:#ffdd46; scale: 0.9;transition: 0.12s;}
+#C:hover{background-color: #646464;color: white;scale: 1;}
+
+#resultat{color:#53f784;scale: 0.9; transition: 0.12s;}
+#resultat:hover{ background-color: #004e17; color: white;scale: 1;}
