@@ -49,6 +49,8 @@ clavier.addEventListener("keypress", (e) =>
         else if (e.key === "1") {let nb = 1;screen.textContent += nb;} 
         else if (e.key === "0") {let nb = 0;screen.textContent += nb;} 
         else if (e.key === ".") {let nb = ".";screen.textContent += nb;} 
+        else if (e.key === "(") {let nb = "(";screen.textContent += nb;} 
+        else if (e.key === ")") {let nb = ")";screen.textContent += nb;} 
         else if (e.key === "+") {let nb = "+";screen.textContent += nb;} 
         else if (e.key === "-") {let nb = "-";screen.textContent += nb;} 
         else if (e.key === "*") {let nb = "*";screen.textContent += nb;} 
