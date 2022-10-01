@@ -17,8 +17,6 @@ button {
   background-color: #3b3a3a;
 }
 
-.bbotom {height: 70px;width: 140px;border-radius: 10px;}
-
 #conts{height: 280px;width: 330px;border-radius: 15px;}
 
 .b1{margin:2px;}
@@ -35,5 +33,5 @@ button {
 #C{color:#ffdd46; scale: 0.9;transition: 0.12s;}
 #C:hover{background-color: #646464;color: white;scale: 1;}
 
-#resultat{color:#53f784;scale: 0.9; transition: 0.12s;}
-#resultat:hover{ background-color: #004e17; color: white;scale: 1;}
+#resultat{background-color: #036a22;color:black;scale: 0.9; transition: 0.12s;}
+#resultat:hover{ background-color: #07b23a; color: white;scale: 1;}
